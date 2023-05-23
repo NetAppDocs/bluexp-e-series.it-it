@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: task-remove-e-series.html 
+keywords: e-series, remove, delete, remove e-series, delete cluster, delete working environment, remove working environment 
+summary: Rimuovere un ambiente di lavoro e-Series se non si desidera più gestirlo da BlueXP. 
+---
+= Rimuovere un ambiente di lavoro e-Series
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Rimuovere un ambiente di lavoro e-Series se non si desidera più gestirlo da BlueXP.
+
+La rimozione dell'ambiente di lavoro non influisce sul sistema e-Series. Puoi riscoprirlo da BlueXP in qualsiasi momento.
+
+.Fasi
+. Da Canvas, fare doppio clic sul nome dell'ambiente di lavoro e-Series.
+. Fare clic sull'icona del menu e selezionare *Rimuovi dall'area di lavoro*.
++
+image:screenshot-remove.png["Una schermata dell'opzione Remove from Workspace (Rimuovi dall'area di lavoro) disponibile nel menu in alto a destra dell'ambiente di lavoro."]
+
+. Fare clic su *Remove* (Rimuovi) per confermare.
+

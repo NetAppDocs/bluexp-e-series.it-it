@@ -1,0 +1,44 @@
+---
+sidebar: sidebar 
+permalink: task-discover-e-series.html 
+keywords: e-series, cluster, discover, manage, discovering, discover e-series 
+summary: 'BlueXP è in grado di rilevare i sistemi storage e-Series nel tuo ambiente on-premise. L"aggiunta di sistemi e-Series a BlueXP consente di ottenere una vista completa dei dati nel multicloud ibrido.' 
+---
+= Scopri i sistemi storage e-Series
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+BlueXP è in grado di rilevare i sistemi storage e-Series nel tuo ambiente on-premise. L'aggiunta di sistemi e-Series a BlueXP consente di ottenere una vista completa dei dati nel multicloud ibrido.
+
+.Di cosa hai bisogno
+* Un connettore installato in un cloud provider o on-premise, con connettività di rete al sistema storage e-Series.
++
+https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Scopri di più sui connettori e su come crearne uno"^]
+
+* Il nome di dominio o l'indirizzo IP del controller del sistema di storage.
+* Credenziali di amministratore per il sistema.
+
+
+.Fasi
+. Dal menu di navigazione di BlueXP, selezionare *Storage > Canvas*.
+. Da Canvas, fare clic su *Add Working Environment* (Aggiungi ambiente di lavoro) e selezionare *on-premise*.
+. Accanto a *e-Series*, selezionare *Discover*.
+. Se richiesto, creare un connettore.
++
+Per ulteriori informazioni, fare riferimento al link riportato sopra.
+
+. Nella pagina _e-Series Cluster Details_, immettere il nome di dominio o l'indirizzo IP del controller del sistema di storage, le credenziali di amministratore per il sistema, quindi fare clic su *Add* (Aggiungi).
++
+image:screenshot-cluster-details.png["Una schermata che mostra la pagina e-Series Cluster Details (Dettagli cluster e-Series) in cui viene richiesto di inserire il nome di dominio o l'indirizzo IP e il nome utente e la password dell'amministratore."]
+
+
+
+.Risultato
+BlueXP rileva il sistema storage e-Series e lo aggiunge come ambiente di lavoro su Canvas.
+
+image:screenshot-canvas.png["Una schermata che mostra un ambiente di lavoro e-Series su BlueXP Canvas."]
