@@ -1,1 +1,1 @@
-Sitemap: https://docs.netapp.com/it-it/cloud-manager-e-series/sitemap.xml
+Sitemap: https://docs.netapp.com/it-it/bluexp-e-series/sitemap.xml
