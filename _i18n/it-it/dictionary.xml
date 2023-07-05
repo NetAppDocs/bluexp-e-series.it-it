@@ -107,8 +107,6 @@
   <block id="97ac529d5b6e242c35c37449c257f8e3" category="paragraph">BlueXP rileva il sistema storage e-Series e lo aggiunge come ambiente di lavoro su Canvas.</block>
   <block id="fbdeb641ca6dc35f45827fbd969c85d8" category="inline-image-macro">Una schermata che mostra un ambiente di lavoro e-Series su BlueXP Canvas.</block>
   <block id="bdc34480642b100bfbc502e65d086a46" category="paragraph"><block ref="bdc34480642b100bfbc502e65d086a46" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="faace6d0089f53d27382ce3bb68c8ec4" category="summary">Scopri i tuoi sistemi storage e-Series attraverso BlueXP per ottenere una vista completa dei dati nel tuo multicloud ibrido.</block>
-  <block id="5f93f381aa8df330451fa5b834f54def" category="doc">Documentazione di e-Series</block>
   <block id="13a22b88b0e5c69fd504248e73b90c38" category="summary">Scopri le novità della gestione dei sistemi e-Series in BlueXP.</block>
   <block id="8d6bb4ca1063ab855a4883d13637c8a9" category="doc">Novità della gestione di e-Series</block>
   <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">18 settembre 2022</block>
@@ -237,4 +235,6 @@
   <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">Aggiornamento del software Cloud Volumes ONTAP alla versione più recente</block>
   <block id="39f382b97080640c75604b5890f3a5d3" category="paragraph">L'associazione delle credenziali NSS all'account BlueXP è diversa dall'account NSS associato a un account utente BlueXP.</block>
   <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">Queste credenziali NSS sono associate all'ID account BlueXP specifico. Gli utenti che appartengono all'account BlueXP possono accedere a queste credenziali da *Support &gt; NSS Management*.</block>
+  <block id="7800ad4a099cdd7b6476a7ec4026ccaf" category="summary">Scopri i tuoi sistemi storage e-Series di BlueXP per ottenere una vista completa dei dati nel tuo multicloud ibrido.</block>
+  <block id="ae36c6babb0825817280d77792a470d6" category="doc">Gestione di e-Series con BlueXP</block>
 </blocks>
