@@ -13,6 +13,7 @@ summary: Dopo aver scoperto i sistemi e-Series, è possibile visualizzare i dett
 :imagesdir: ./media/
 
 
+[role="lead"]
 Dopo aver scoperto i sistemi e-Series, è possibile visualizzare i dettagli relativi alla distribuzione della capacità, ai volumi e agli host.
 
 .Fasi
