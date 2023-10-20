@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: task-discover-e-series.html 
 keywords: e-series, cluster, discover, manage, discovering, discover e-series 
-summary: 'BlueXP è in grado di rilevare i sistemi storage e-Series nel tuo ambiente on-premise. L"aggiunta di sistemi e-Series a BlueXP consente di ottenere una vista completa dei dati nel multicloud ibrido.' 
+summary: 'BlueXP è in grado di rilevare i sistemi e-Series nel tuo ambiente on-premise. L"aggiunta di sistemi e-Series a BlueXP consente di ottenere una vista completa dei dati nel multicloud ibrido.' 
 ---
-= Scopri i sistemi storage e-Series
+= Scopri i sistemi e-Series
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -14,10 +14,12 @@ summary: 'BlueXP è in grado di rilevare i sistemi storage e-Series nel tuo ambi
 
 
 [role="lead"]
-BlueXP è in grado di rilevare i sistemi storage e-Series nel tuo ambiente on-premise. L'aggiunta di sistemi e-Series a BlueXP consente di ottenere una vista completa dei dati nel multicloud ibrido.
+BlueXP è in grado di rilevare i sistemi e-Series nel tuo ambiente on-premise. L'aggiunta di sistemi e-Series a BlueXP consente di ottenere una vista completa dei dati nel multicloud ibrido.
 
-.Di cosa hai bisogno
-* Un connettore installato in un cloud provider o on-premise, con connettività di rete al sistema storage e-Series.
+.Prima di iniziare
+Sono necessari i seguenti elementi:
+
+* Un connettore installato in un cloud provider o on-premise, con connettività di rete al sistema e-Series.
 +
 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Scopri di più sui connettori e su come crearne uno"^]
 
@@ -40,6 +42,6 @@ image:screenshot-cluster-details.png["Una schermata che mostra la pagina e-Serie
 
 
 .Risultato
-BlueXP rileva il sistema storage e-Series e lo aggiunge come ambiente di lavoro su Canvas.
+BlueXP rileva il sistema e-Series e lo aggiunge come ambiente di lavoro in Canvas.
 
 image:screenshot-canvas.png["Una schermata che mostra un ambiente di lavoro e-Series su BlueXP Canvas."]

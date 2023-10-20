@@ -13,16 +13,18 @@ sidebar:
   - title: Documenti e-Series
     url: "/index.html"
   - title: Note di rilascio
-    url: "/whats-new.html"
+    entries:
+    - title: Novità
+      url: "/whats-new.html"
   - title: Inizia subito
     entries:
-    - title: Scopri i tuoi sistemi e-Series
+    - title: Scopri i sistemi e-Series
       url: "/task-discover-e-series.html"
-  - title: Gestire i cluster e-Series
+  - title: Gestire i sistemi e-Series
     entries:
     - title: Visualizza i tuoi sistemi e-Series
       url: "/task-view-e-series.html"
-    - title: Rimuovere e-Series
+    - title: Rimuovere un ambiente di lavoro
       url: "/task-remove-e-series.html"
   - title: Conoscenza e supporto
     entries:
@@ -36,13 +38,13 @@ homepage:
   tiles:
   - title: Inizia subito
     links:
-    - title: Scopri i tuoi sistemi e-Series
+    - title: Scopri i sistemi e-Series
       url: "/task-discover-e-series.html"
   - title: Gestire i sistemi e-Series
     links:
     - title: Visualizza i tuoi sistemi e-Series
       url: "/task-view-e-series.html"
-    - title: Rimuovere e-Series
+    - title: Rimuovere un ambiente di lavoro
       url: "/task-remove-e-series.html"
   - title: Link correlati
     links:

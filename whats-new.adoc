@@ -24,4 +24,4 @@ Scopri le novità della gestione dei sistemi e-Series in BlueXP.
 
 === Supporto per e-Series
 
-Ora puoi scoprire i tuoi sistemi storage e-Series direttamente da BlueXP. La scoperta dei sistemi e-Series ti offre una vista completa dei dati nel tuo multicloud ibrido.
+Ora puoi scoprire i tuoi sistemi e-Series direttamente da BlueXP. La scoperta dei sistemi e-Series ti offre una vista completa dei dati nel tuo multicloud ibrido.
