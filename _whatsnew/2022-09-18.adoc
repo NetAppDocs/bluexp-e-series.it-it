@@ -1,0 +1,9 @@
+= Supporto per e-Series
+:allow-uri-read: 
+
+
+
+
+=== Supporto per e-Series
+
+Ora puoi scoprire i tuoi sistemi e-Series direttamente da BlueXP. La scoperta dei sistemi e-Series ti offre una vista completa dei dati nel tuo multicloud ibrido.
